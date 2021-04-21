@@ -16,6 +16,7 @@ Desde entonces seguí sumando conocimientos, hijas, y horas de codeo, con el des
 🕹️ <a href="https://anita86.github.io/Proyecto-5-Ciudad-Zombie/">Ciudad Zombie</a>  
 
 - Landing pages: <a href="https://anita86.github.io/404-NOT-FOUND/">404 - NOT FOUND </a> 💻 
+<br>
 
 Tech Skills | Other Skills
 ------------ | -------------
@@ -25,6 +26,11 @@ JavaScript | Social Studio
 Rest API's | Google Analytics
 HTML5, CSS | Google Data Studio
 Node.js | Agile
+
+<br>
+#### 📍 Encontrame en <a href="https://www.linkedin.com/in/ana-bobadilla/">Linkedin.</a>
+
+
 
 
 <!---
