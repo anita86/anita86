@@ -2,11 +2,14 @@ Bienvenidos a mi repo!
 
 En él encontrarán....
 
-Un homebanking  (https://anita86.github.io/Proyecto-2-Homebanking/),
+- Un <a href="https://anita86.github.io/Proyecto-2-Homebanking/">homebanking</a>   
 
-Algunos jueguitos (https://anita86.github.io/Proyecto-3-Rompecabezas/ https://anita86.github.io/Proyecto-4-Pixel-art/ https://anita86.github.io/Proyecto-5-Ciudad-Zombie/)
+- Algunos jueguitos:  
+<a href="https://anita86.github.io/Proyecto-3-Rompecabezas/">Rompecabezas</a> <br> 
+<a href="https://anita86.github.io/Proyecto-4-Pixel-art/">Pixel Art</a> <br> 
+<a href="https://anita86.github.io/Proyecto-5-Ciudad-Zombie/">Ciudad Zombie</a>  
 
-Landing pages (https://anita86.github.io/404-NOT-FOUND/ )
+- Landing pages: <a href="https://anita86.github.io/404-NOT-FOUND/">404 - NOT FOUND </a>
 
 
 
