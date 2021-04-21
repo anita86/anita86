@@ -1,6 +1,10 @@
 # Bienvenidos! 
 <img src="https://media.giphy.com/media/DSJXFUdrXtLWu8qFH6/giphy.gif" />
+
 ## 👩‍💻 Soy Analía, desarrolladora web full stack, politóloga, y mamá de dos niñas 👩‍👧‍👧 
+En 2015, por pura curiosidad, me anoté en un curso de diseño web en la UTN, y descubrí un mundo apasionante para mí.<br>
+Desde entonces seguí sumando conocimientos, hijas, y horas de codeo, con el deseo siempre presente de trabajar en el mundo IT.<br>
+
 
 ### En mi repo encontrarán...
 
@@ -13,22 +17,14 @@
 
 - Landing pages: <a href="https://anita86.github.io/404-NOT-FOUND/">404 - NOT FOUND </a> 💻 
 
-### Mis skills técnicas son...
-- Python
-- SQL, MySQL
-- JavaScript
-- Rest API's
-- HTML5 
-- CSS
-- Node.js
-- Docker
-- Git
-
-### Además, manejo...
-- Sprinklr
-- Social Studio
-- Google Analytics
-- Google Data Sudio
+Tech Skills | Other Skills
+------------ | -------------
+ Python | Git
+ SQL, MySQL | Sprinklr
+JavaScript | Social Studio
+Rest API's | Google Analytics
+HTML5, CSS | Google Data Studio
+Node.js | Agile
 
 
 <!---
