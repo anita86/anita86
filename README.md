@@ -28,7 +28,7 @@ HTML5, CSS | Google Data Studio
 Node.js | Agile
 
 <br>
-### 📍 Encontrame en <a href="https://www.linkedin.com/in/ana-bobadilla/">Linkedin.</a>
+📍 Encontrame en <a href="https://www.linkedin.com/in/ana-bobadilla/">Linkedin.</a>
 
 
 
