@@ -1,4 +1,7 @@
-Bienvenidos a mi repo!
+# Bienvenidos a mi repo!
+
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif">
+Hola! Soy Analía Bobadilla.
 
 En él encontrarán....
 
