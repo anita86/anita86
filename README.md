@@ -1,9 +1,8 @@
 # Bienvenidos a mi repo!
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="30%" height="30%" />
+ 👩‍💻 Soy Analía, desarrolladora web full stack, politóloga, y mamá de dos niñas 👩‍👧‍👧 
 
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif">
-Hola! Soy Analía Bobadilla.
-
-En él encontrarán....
+## En él encontrarán....
 
 - Un <a href="https://anita86.github.io/Proyecto-2-Homebanking/">homebanking</a>   
 
