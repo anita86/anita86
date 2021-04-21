@@ -1,5 +1,5 @@
 # Bienvenidos! 
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="30%" height="30%" />
+<img src="https://media.giphy.com/media/DSJXFUdrXtLWu8qFH6/giphy.gif" />
  👩‍💻 Soy Analía, desarrolladora web full stack, politóloga, y mamá de dos niñas 👩‍👧‍👧 
 
 ## En mi repo encontrarán....
