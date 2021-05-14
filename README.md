@@ -1,10 +1,7 @@
-# Bienvenidos! 
 <img src="https://media.giphy.com/media/DSJXFUdrXtLWu8qFH6/giphy.gif" />
 
-## 👩‍💻 Soy Analía, desarrolladora web full stack, politóloga, y mamá de dos niñas 👩‍👧‍👧 
-En 2015, por pura curiosidad, me anoté en un curso de diseño web en la UTN, y descubrí un mundo apasionante para mí.<br>
-Desde entonces seguí sumando conocimientos, hijas, y horas de codeo, con el deseo siempre presente de trabajar en el mundo IT.<br>
-
+## 👩‍💻 Soy Ana, desarrolladora web.
+Python - SQL - JavaScript - HTML - CSS
 
 ### En mi repo encontrarán...
 
@@ -13,8 +10,6 @@ Desde entonces seguí sumando conocimientos, hijas, y horas de codeo, con el des
 > Una app de <a href="https://anita86.github.io/Proyecto-6-Reservando/">reservas</a> para restaurantes 🍽️ 
 
 > Algunos jueguitos: 🧩 <a href="https://anita86.github.io/Proyecto-3-Rompecabezas/">Rompecabezas</a>, 🎨 <a href="https://anita86.github.io/Proyecto-4-Pixel-art/">Pixel Art</a>, 🕹️ <a href="https://anita86.github.io/Proyecto-5-Ciudad-Zombie/">Ciudad Zombie</a>  
-
-> Landing pages: <a href="https://anita86.github.io/404-NOT-FOUND/">404 - NOT FOUND </a> 💻 
 
 <br>
 
